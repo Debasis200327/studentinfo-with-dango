@@ -1,1 +1,1 @@
-student info with jango
+student info with Django
